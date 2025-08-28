@@ -66,6 +66,4 @@ It covers **data preprocessing, visualization, and model training**, helping to 
 - Learn how **preprocessing** affects model performance.  
 - Gain hands-on experience with **Scikit-learn and ML pipelines**.  
 
----
 
-✨ *This project is ideal for beginners exploring ML algorithms and their practical implementation on real-world datasets.*  
